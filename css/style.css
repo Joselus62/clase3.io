@@ -1,0 +1,32 @@
+img{margin-left: 30%;}
+h2{border-radius: 10px;}
+
+.inputb{
+    border-color: darkgreen;
+    border-radius: 10px;
+}
+.botonb{
+    background-color: lime;
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: darkgreen;
+    border-radius: 10px;
+    font-size: 18px;
+}
+h2{
+    background-color: darkgreen;
+    margin-left: 30px;
+}
+ul {
+    list-style: none;
+    list-style-type: none;
+}
+.caja{
+    background-color:lightgreen;
+    color:green;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5%;
+
+}
